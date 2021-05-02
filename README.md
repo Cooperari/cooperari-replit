@@ -2,7 +2,7 @@
 
 In the replit command line configure the path using:
 
-	export PATH=$HOME/cooperari-0.4/bin:$PATH
+	export PATH=$HOME/cooperari-replit/cooperari-0.4/bin:$PATH
 
 then follow [these instructions to run a few examples](https://github.com/Cooperari/cooperari/blob/master/GettingStarted.md#examples).
 
