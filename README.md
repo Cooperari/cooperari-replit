@@ -1,4 +1,4 @@
-# Cooperari demo [![Run on Repl.it](https://repl.it/badge/github/cksystemsteaching/selfie)](https://repl.it/github/cooperari/cooperari-demo)
+# Cooperari demo [![Run on Repl.it](run_on_replit.svg)](https://repl.it/github/cooperari/cooperari-replit)
 
 In the replit command line configure the path using:
 
